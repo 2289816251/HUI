@@ -1,0 +1,25 @@
+{
+  "name": "hui",
+  "version": "1.0.0",
+  "description": "HUI，个性UI组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2289816251/HUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2289816251/HUI/issues"
+  },
+  "homepage": "https://github.com/2289816251/HUI#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.53",
+    "vuepress": "^2.0.0-beta.53"
+  }
+}
